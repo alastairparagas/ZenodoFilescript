@@ -1,0 +1,9 @@
+version: "3"
+services:
+
+  cross_compile:
+    build:
+      context: .
+      dockerfile: crosscompile_docker
+    volumes:
+      - .:/compile_program
