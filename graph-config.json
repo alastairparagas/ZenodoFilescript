@@ -1,0 +1,13 @@
+{
+  "uri": "./output.txt",
+  "format": "adj_list",
+  "separator": ",",
+  "vertex_id_type": "string",
+  "vertex_props": [{
+    "name": "url",
+    "type": "string"
+  }, {
+    "name": "type",
+    "type": "string"
+  }]
+}
