@@ -1,0 +1,9 @@
+.venv
+.venv-oracleserver
+*.pyc
+.python-version
+output.txt
+zenodo-filescript.zip
+deps/*
+.DS_Store
+.idea/*
